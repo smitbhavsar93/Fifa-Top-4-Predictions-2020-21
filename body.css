@@ -1,0 +1,17 @@
+body{
+	background-color : lightblue;
+}
+
+h1 {
+	color : orangered;
+	font-family: sans-serif;
+}
+
+p {
+	color : blue;
+	font-family: serif;
+}
+
+a {
+	color : darkslategrey;
+}
